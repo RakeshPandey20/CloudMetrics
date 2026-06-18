@@ -1,20 +1,69 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# CloudMetrics
 
-# Run and deploy your AI Studio app
+CloudMetrics is a modern cloud monitoring and analytics dashboard built with React, TypeScript, and Vite. It provides a clean interface for visualizing cloud infrastructure metrics, monitoring performance, and analyzing system data.
 
-This contains everything you need to run your app locally.
+## Features
 
-View your app in AI Studio: https://ai.studio/apps/e94bd13b-4abd-45cf-a824-5a10c88d5703
+- Real-time metrics visualization
+- Interactive dashboard interface
+- Responsive design
+- Fast development with Vite
+- Type-safe codebase using TypeScript
+- Modern React architecture
 
-## Run Locally
+## Tech Stack
 
-**Prerequisites:**  Node.js
+- React
+- TypeScript
+- Vite
+- CSS
 
+## Installation
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+Clone the repository:
+
+```bash
+git clone https://github.com/RakeshPandey20/CloudMetrics.git
+```
+
+Navigate to the project directory:
+
+```bash
+cd CloudMetrics
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+## Build for Production
+
+```bash
+npm run build
+```
+
+## Preview Production Build
+
+```bash
+npm run preview
+```
+
+## Project Structure
+
+```text
+src/          Application source code
+assets/       Static assets
+public/       Public resources
+```
+
+## License
+
+This project is intended for educational and learning purposes.
