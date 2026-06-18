@@ -1,56 +1,43 @@
 # CloudMetrics
 
-CloudMetrics is a modern cloud monitoring and analytics dashboard built with React, TypeScript, and Vite. It provides a clean interface for visualizing cloud infrastructure metrics, monitoring performance, and analyzing system data.
+CloudMetrics is a cloud monitoring and analytics dashboard built with React, TypeScript, and Vite. It helps visualize performance metrics, security insights, and infrastructure health through an interactive interface.
+
+## Live Demo
+
+🚀 https://multi-cloud-performance-security-study-48048144390.asia-southeast1.run.app
 
 ## Features
 
-- Real-time metrics visualization
-- Interactive dashboard interface
-- Responsive design
+- Cloud performance monitoring
+- Security analytics dashboard
+- Interactive charts and visualizations
+- Responsive UI
 - Fast development with Vite
-- Type-safe codebase using TypeScript
-- Modern React architecture
+- TypeScript support
 
 ## Tech Stack
 
 - React
 - TypeScript
 - Vite
-- CSS
+- HTML/CSS
 
 ## Installation
 
-Clone the repository:
-
 ```bash
 git clone https://github.com/RakeshPandey20/CloudMetrics.git
-```
-
-Navigate to the project directory:
-
-```bash
 cd CloudMetrics
-```
-
-Install dependencies:
-
-```bash
 npm install
-```
-
-Start the development server:
-
-```bash
 npm run dev
 ```
 
-## Build for Production
+## Build
 
 ```bash
 npm run build
 ```
 
-## Preview Production Build
+## Preview
 
 ```bash
 npm run preview
@@ -59,9 +46,8 @@ npm run preview
 ## Project Structure
 
 ```text
-src/          Application source code
-assets/       Static assets
-public/       Public resources
+src/       Source code
+assets/    Static assets
 ```
 
 ## License
