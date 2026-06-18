@@ -1,0 +1,6 @@
+{
+  "name": "Multi-Cloud Performance & Security Study",
+  "description": "A comprehensive cloud monitoring, analytics, and academic research platform for studying the impact of multi-cloud architectures on application performance and security.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
